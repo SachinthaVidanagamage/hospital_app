@@ -1,17 +1,12 @@
-# hospital_app
+**Hospital Form App**
+Welcome to Hospital Form, a Flutter-based application designed to manage hospital information efficiently! Whether you're adding a new hospital or editing existing details, this app provides a sleek and user-friendly interface to handle hospital data, including emergency services and blood bank units.
 
-A new Flutter project.
+This project is perfect for developers learning Flutter or anyone interested in building a simple yet practical app for healthcare management.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# hospital_app" 
+✨ Features
+Add New Hospitals: Easily input hospital details like name, address, and contact number.
+Edit Existing Hospitals: Update hospital information with a clean, intuitive form.
+Emergency Services Toggle: Indicate if a hospital offers 24/7 emergency services.
+Blood Bank Tracking: Record and manage blood bank units available.
+Delete Confirmation: Safely delete hospital records with a confirmation dialog.
+Responsive UI: A modern, card-based design with smooth scrolling and validation.
